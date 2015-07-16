@@ -1,10 +1,19 @@
-# Atom-IDE-package-list
 A curated list of packages that you should probably get when setting up Atom for a specific language.
 
 Packages can be installed using `apm install <package>` from the command line, or from the Atom interface. Many of the packages (like the linters) require external programs to be installed. Make sure to check the packages for this.
 
 
-# Basic packages
+## Overview
+
+* [Basic Packages](#basic-packages)
+* [Haskell](#haskell)
+* [Python](#python)
+* [React, HTML, CSS and JS](#react-html-css-and-js)
+* [PHP](#php)
+* [Docker](#docker)
+
+
+## Basic packages
 There are a couple of packages that are needed in almost every setup. These will be listed here:
 
 * `linter`
@@ -14,7 +23,7 @@ There are linter packages for almost any language, and they usually use this bas
 You could probably also do with `vim-mode`.
 
 
-# Haskell
+## Haskell
 
 * `language-haskell`
 * `autocomplete-haskell`
@@ -23,12 +32,12 @@ You could probably also do with `vim-mode`.
 * `linter-hlint`
 
 
-# Python
+## Python
 
 * `linter-flake8`
 
 
-# React, HTML, CSS and JS
+## React, HTML, CSS and JS
 
 * `react`
 * `linter-jsxhint`
@@ -37,12 +46,12 @@ You could probably also do with `vim-mode`.
 * `linter-csslint`
 
 
-# PHP
+## PHP
 
 * `linter-php`
 * `autocomplete-php`
 
 
-# Docker
+## Docker
 
 * `language-docker`
