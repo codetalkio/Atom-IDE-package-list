@@ -5,12 +5,17 @@ Packages can be installed using `apm install <package>` from the command line, o
 
 ## Overview
 
+* [Themes](#themes)
 * [Basic Packages](#basic-packages)
 * [Haskell](#haskell)
 * [Python](#python)
 * [React, HTML, CSS and JS](#react-html-css-and-js)
 * [PHP](#php)
 * [Docker](#docker)
+
+
+## Themes
+To get a more TextMate2 feel, you can check out [slim-dark-ui](https://atom.io/packages/slim-dark-ui).
 
 
 ## Basic packages
